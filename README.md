@@ -1,4 +1,4 @@
-# # Environment
+# Environment
 
 To replicate the environment:
 
